@@ -1,0 +1,5 @@
+﻿{
+    "variants" : {
+      "" : {"model": "luckymon:block/lucky_block"}
+    }
+}
